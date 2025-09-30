@@ -52,7 +52,7 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener {
 
     //Game Logic
     Bird bird;
-    int velocityX = -4;   
+    int velocityX = -3;   
     int velocityY = 0;
     int gravity = 1;   // reduced effect (bird falls slower now)
 
@@ -82,7 +82,7 @@ public class FlappyBird extends JPanel implements ActionListener, KeyListener {
         pipes = new ArrayList<>();
 
         //Place Pipes Timer
-        placePipesTimer = new Timer(1500, new ActionListener() {
+        placePipesTimer = new Timer(2000, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e){
                 placePipes();
