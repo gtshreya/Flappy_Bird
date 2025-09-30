@@ -51,7 +51,7 @@ FlappyBird/
 
 ## Screenshot
 
-![Game Screenshot](image.png)
+![Game Screenshot](assets/screenshot.png)
 
 ---
 
