@@ -50,10 +50,8 @@ FlappyBird/
 ---
 
 ## Screenshot
-Add a screenshot of the game here by placing an image in your repo (e.g., `assets/screenshot.png`)  
-and linking it below:
 
-![Game Screenshot](assets/screenshot.png)
+![Game Screenshot](image.png)
 
 ---
 
